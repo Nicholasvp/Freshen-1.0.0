@@ -223,7 +223,7 @@ body {
 }
 
 .video-play-button:hover:after {
-    background: rgba(var(--bs-primary-rgb), 0.8);
+    background: rgba(var(--bs-secondary-rgb), 0.8);
 }
 
 .video-play-button span {
